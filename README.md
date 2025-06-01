@@ -13,7 +13,7 @@ _"Become a better developer everyday"_ curated list of books I want to read (or 
 
 ## Currently Reading
 
-- [x] Effective Jva – Joshua Bloch
+- [x] Effective Jva – Joshua Bloch (Anticipated finish date:  **September 5, 2025**)
 
 ## Finished
 
