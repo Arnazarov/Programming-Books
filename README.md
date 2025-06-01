@@ -13,7 +13,7 @@ _"Become a better developer everyday"_ curated list of books I want to read (or 
 
 ## Currently Reading
 
-- [ ] Effective Jva – Joshua Bloch
+- [x] Effective Jva – Joshua Bloch
 
 ## Finished
 
